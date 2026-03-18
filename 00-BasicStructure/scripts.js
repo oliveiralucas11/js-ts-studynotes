@@ -1,0 +1,6 @@
+console.log("Hello World")
+console.log("Essa é uma mensagem do js conectado com o html")
+
+// Esse é um tipo de comentario em javascript e em qualquer linguagem de programação
+
+/* Comentario usado para multiplas linhas em javascript ou em qualquer linguagem de programação */
